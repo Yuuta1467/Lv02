@@ -1,5 +1,5 @@
 
-public class sougou02 {
+public class Sougou02 {
 	
 	public static void main(String[] args) {
 		
